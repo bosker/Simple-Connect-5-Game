@@ -1,4 +1,3 @@
-quit# -*- coding: utf-8 -*-
 """
 Created on Tue Feb 13 13:16:32 2018
 
